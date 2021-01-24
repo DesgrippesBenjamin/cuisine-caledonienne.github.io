@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:
+Sitemap:  https://www.cuisine-caledonienne.github.io/sitemap_index.xml
